@@ -13,6 +13,11 @@ const me = {
   work: ["I am doing the #100DaysOfCode challenge", "Working on Minecraft Mods and related content for @SpectralStudios"]
 }
 ```
+-------
+
+📊 **Weekly development breakdown**
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
