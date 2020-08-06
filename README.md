@@ -10,7 +10,8 @@
 const me = {
   code: [Javascript, Typescript, Python, Java, C, C++, HTML, CSS],
   tools: [React, Redux, Node, Express, Flask, Docker],
-  work: ["I am doing the #100DaysOfCode challenge", "Working on Minecraft Mods and related content for @SpectralStudios"]
+  work: ["I am doing the #100DaysOfCode challenge", 
+         "Working on Minecraft Mods and related content for @SpectralStudios"],
 }
 ```
 -------
