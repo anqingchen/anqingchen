@@ -19,8 +19,7 @@ const me = {
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-TypeScript   51 mins         ████████████████████████▒   97.43 % 
-SCSS         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
