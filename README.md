@@ -20,11 +20,9 @@ const me = {
 <!--START_SECTION:waka-->
 
 ```text
-Python       5 hrs 45 mins   ████████████████████▒░░░░   81.82 %
-JavaScript   1 hr 16 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.12 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Python       4 hrs 45 mins   ██████████████████████▒░░   89.18 %
+JavaScript   34 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.76 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
