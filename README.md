@@ -20,8 +20,9 @@ const me = {
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   5 hrs 45 mins   █████████████████████████   99.37 %
-HTML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+JavaScript   5 hrs 26 mins   █████████████████████████   99.34 %
+HTML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
