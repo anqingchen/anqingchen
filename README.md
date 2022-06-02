@@ -20,7 +20,8 @@ const me = {
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Python   8 mins          ███████████████████████░░   92.11 %
+HTML     0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 %
 ```
 
 <!--END_SECTION:waka-->
